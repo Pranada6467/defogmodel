@@ -1,0 +1,2 @@
+# defogmodel
+defog model implementation 
